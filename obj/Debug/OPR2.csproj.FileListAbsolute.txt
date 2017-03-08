@@ -1,0 +1,18 @@
+D:\Универ\3 курс\2 семестр\ОПР\Лаборатоные работы\Лаба 2\OPR2\bin\Debug\OPR2.exe.config
+D:\Универ\3 курс\2 семестр\ОПР\Лаборатоные работы\Лаба 2\OPR2\obj\Debug\OPR2.csprojResolveAssemblyReference.cache
+D:\Универ\3 курс\2 семестр\ОПР\Лаборатоные работы\Лаба 2\OPR2\obj\Debug\OPR2.Form1.resources
+D:\Универ\3 курс\2 семестр\ОПР\Лаборатоные работы\Лаба 2\OPR2\obj\Debug\OPR2.Properties.Resources.resources
+D:\Универ\3 курс\2 семестр\ОПР\Лаборатоные работы\Лаба 2\OPR2\obj\Debug\OPR2.csproj.GenerateResource.Cache
+D:\Универ\3 курс\2 семестр\ОПР\Лаборатоные работы\Лаба 2\OPR2\bin\Debug\OPR2.exe
+D:\Универ\3 курс\2 семестр\ОПР\Лаборатоные работы\Лаба 2\OPR2\bin\Debug\OPR2.pdb
+D:\Универ\3 курс\2 семестр\ОПР\Лаборатоные работы\Лаба 2\OPR2\obj\Debug\OPR2.exe
+D:\Универ\3 курс\2 семестр\ОПР\Лаборатоные работы\Лаба 2\OPR2\obj\Debug\OPR2.pdb
+E:\study\1_Study\BarsuEngineeringFaculty\all\ОПР\Лаборатоные работы\Лаба 2\OPR2\bin\Debug\OPR2.exe.config
+E:\study\1_Study\BarsuEngineeringFaculty\all\ОПР\Лаборатоные работы\Лаба 2\OPR2\obj\Debug\OPR2.exe
+E:\study\1_Study\BarsuEngineeringFaculty\all\ОПР\Лаборатоные работы\Лаба 2\OPR2\obj\Debug\OPR2.pdb
+E:\study\1_Study\BarsuEngineeringFaculty\all\ОПР\Лаборатоные работы\Лаба 2\OPR2\bin\Debug\OPR2.exe
+E:\study\1_Study\BarsuEngineeringFaculty\all\ОПР\Лаборатоные работы\Лаба 2\OPR2\bin\Debug\OPR2.pdb
+E:\study\1_Study\BarsuEngineeringFaculty\all\ОПР\Лаборатоные работы\Лаба 2\OPR2\obj\Debug\OPR2.csprojResolveAssemblyReference.cache
+E:\study\1_Study\BarsuEngineeringFaculty\all\ОПР\Лаборатоные работы\Лаба 2\OPR2\obj\Debug\OPR2.Form1.resources
+E:\study\1_Study\BarsuEngineeringFaculty\all\ОПР\Лаборатоные работы\Лаба 2\OPR2\obj\Debug\OPR2.Properties.Resources.resources
+E:\study\1_Study\BarsuEngineeringFaculty\all\ОПР\Лаборатоные работы\Лаба 2\OPR2\obj\Debug\OPR2.csproj.GenerateResource.Cache
